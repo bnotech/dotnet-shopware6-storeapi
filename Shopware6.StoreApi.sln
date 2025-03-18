@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopware6.StoreApi", "Shopware6.StoreApi\Shopware6.StoreApi.csproj", "{A39FBF34-04A7-4C49-967A-3CE45E646BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39FBF34-04A7-4C49-967A-3CE45E646BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39FBF34-04A7-4C49-967A-3CE45E646BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39FBF34-04A7-4C49-967A-3CE45E646BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39FBF34-04A7-4C49-967A-3CE45E646BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

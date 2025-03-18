@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+Shopware6.StoreApi/Generated
+storeapi.json
+.idea/

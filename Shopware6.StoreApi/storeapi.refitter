@@ -1,0 +1,17 @@
+{
+  "openApiPath": "storeapi.json",
+  "namespace": "Shopware6.StoreApi.Generated",
+  "returnIApiResponse": true,
+  "trimUnusedSchema": false,
+  "includeInheritanceHierarchy": true,
+  "dependencyInjectionSettings": {
+    "transientErrorHandler": "Polly",
+    "maxRetryCount": 3,
+    "firstBackoffRetryInSeconds": 0.5
+  },  
+  "codeGeneratorSettings": {
+    "dateType": "System.DateTime",
+    "dateTimeType": "System.DateTime",
+    "arrayType": "System.Collections.Generic.IList"
+  }
+}
